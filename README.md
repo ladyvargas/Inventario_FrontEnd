@@ -14,24 +14,23 @@ Tecnologías implementadas:
 
 Ejecuta los siguientes comandos en el temrinal dentro de las carpetas "api" y "app-react"
 
-``bash
-####npm
+```bash
+#npm
 $ npm install
-o
-#hilo
+ou
+#yarn
 $ yarn install
 ```
 
 ### Run Application
 
 Ejecute los siguientes comandos en los temrinales dentro de las carpetas "api" y "app-react"
-
 ```
-#### npm
+#npm
 $ npm start
-o
-#hilo
-$ inicio de hilo
+ou
+#yarn
+$ yarn start
 ```
 
 ### Acceso
