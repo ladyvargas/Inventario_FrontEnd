@@ -1,45 +1,55 @@
-# Front-end / CRUD usuarios
+# Usuarios de front-end / CRUD
 
-##### Implementação simples de um CRUD de usuarios.
+##### Implementación simple de un CRUD de usuarios.
 
-Tecnologias implementadas:
+Tecnologías implementadas:
 
 - React, Hooks;
-- Redux, Redux Saga, Redux persist;
-- Styled components;
-- Material Ui;
-- Immer, Yup, axios, outras..;
+- Redux, Redux Saga, Redux persisten;
+- Componentes estilizados;
+- Cosas de la Ui;
+- Immer, Yup, axios, otros..;
 
-### Instalação de depêndencias
+### Instalación de dependencias
 
-Execute os comandos abaixo no temrinal dentro das pastas "api" e "app-react"
+Ejecuta los siguientes comandos en el temrinal dentro de las carpetas "api" y "app-react"
 
-```bash
-#npm
+``bash
+####npm
 $ npm install
-ou
-#yarn
+o
+#hilo
 $ yarn install
 ```
 
-### Executar Aplicação
+### Run Application
 
-Execute os comandos abaixo no temrinal dentro das pastas "api" e "app-react"
+Ejecute los siguientes comandos en los temrinales dentro de las carpetas "api" y "app-react"
 
 ```
-#npm
+#### npm
 $ npm start
-ou
-#yarn
-$ yarn start
+o
+#hilo
+$ inicio de hilo
 ```
 
-### Acesso
+### Acceso
 
-#### Login Administrador
+#### Inicio de sesión de administrador
 
 ```
-email: jonasvargaski@hotmail.com
+correo electrónico: admin@ec.krugercorp.com
 
-senha: 123
+contraseña: 1111111111
 ```
+
+#### Inicio de sesión de empleado
+
+```
+correo electrónico: empleado@ec.krugercorp.com
+
+contraseña: 2222222222
+```
+
+
